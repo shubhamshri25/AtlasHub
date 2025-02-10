@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1417160617,
+    "interestingFact": "India is the second-most populous country in the world and is known as the birthplace of four major religions: Hinduism, Buddhism, Jainism, and Sikhism."
+  },
+  {
+    "id": 3,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 84379631,
+    "interestingFact": "Germany is home to the Autobahn, famous for having stretches without speed limits."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 6,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+  },
+  {
+    "id": 7,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": 51836609,
+    "interestingFact": "South Korea is known for its K-pop culture, technology companies, and delicious Korean BBQ."
+  },
+  {
+    "id": 8,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 9,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 1324216107,
+    "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 10,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38906068,
+    "interestingFact": "Canada has the longest coastline in the world, stretching over 202,080 kilometers."
+  }
+]
