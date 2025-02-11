@@ -77,7 +77,7 @@ button {
 /* Layout  */
 
 .container {
-  max-width: 140rem;
+  max-width: 100rem;
   margin: auto;
 }
 
@@ -120,7 +120,6 @@ header {
 nav ul {
   display: flex;
   justify-content: flex-end;
-  /* background-color: yellow; */
   gap: 3.2rem;
   color: #fff;
 
@@ -212,7 +211,7 @@ nav ul {
 /* About Section  */
 
 .section-about {
-  margin: 0 auto 9rem auto;
+  margin: 1rem auto 9rem auto;
 }
 
 .gradient-cards {

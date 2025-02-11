@@ -1,5 +1,13 @@
+import { HeroSection } from "../components/ui/HeroSection";
+import About from "./About";
+
 const Home = () => {
-  return <h1>Home</h1>;
+  return (
+    <>
+      <HeroSection />
+      <About />
+    </>
+  );
 };
 
 export default Home;
