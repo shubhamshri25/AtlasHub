@@ -597,3 +597,8 @@ contact us Page ends here
   justify-content: center;
   align-items: center;
 }
+
+.search-section{
+  padding: 1rem;
+  border-radius: 1rem;
+}
