@@ -19,7 +19,7 @@ const CountryDetails = () => {
 
       console.log(Object.keys(res.data[0].name.nativeName));
     });
-  }, []);
+  }, [params.id]);
 
   if (isPending) return <Loader />;
 
